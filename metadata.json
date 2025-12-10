@@ -1,0 +1,5 @@
+{
+  "name": "AI ROI & Roadmap Agent",
+  "description": "A strategic tool to capture AI use cases, compute rigorous ROI/NPV metrics, select a value-optimized portfolio, and generate a roadmap canvas.",
+  "requestFramePermissions": []
+}
